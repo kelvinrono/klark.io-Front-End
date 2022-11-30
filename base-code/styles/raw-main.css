@@ -10,3 +10,10 @@ put your css styles here, incase you dont use scss
 
 Note: don't write css for something that can be accomplished using bootstrap
 */
+.modal-custom{
+  background-color: rgb(238, 225, 225);
+}
+
+.chat-background{
+  background-color: #fff;
+}
